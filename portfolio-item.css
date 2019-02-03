@@ -1,0 +1,92 @@
+body {
+  padding-top: 54px;
+}
+
+.fa-star{
+}
+
+.row{
+  margin-left: 5vw;
+  margin-top: 10px;
+}
+
+.title-h1{
+  margin-top: 50px;
+}
+
+.logo{
+  width: 200px;
+  height: auto;
+  margin-bottom: 0px;
+}
+
+
+nav{
+  margin-bottom: 20px;
+}
+
+.navbar {
+  min-height: 20px;
+  color: #FFF;
+}
+
+.navbar-brand{
+  font-size: 20px;
+  margin-left: -2vw;
+}
+
+.title{
+  font-weight:200;
+}
+
+h1 {
+  font-weight:300;
+}
+
+
+h3{
+  font-weight:100;
+}
+
+h5{
+  font-weight:200;
+}
+.nav-item{
+  font-size: 18px;
+}
+
+#star{
+  text-align:right;
+}
+
+.centered{
+  text-align:center;
+}
+
+small{
+  text-align:left;
+}
+
+.img-button {
+  border-radius: 50%;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    font-size: 190%;
+  color:  white;
+}
+
+.bottom-center {
+  position: absolute;
+  left: 50%;
+  bottom: 10px;
+  transform: translate(-50%, -50%);
+  font-size: 90%;
+  color:  white;
+}
+
